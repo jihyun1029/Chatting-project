@@ -21,8 +21,6 @@ import org.sp.chat.client.view.FriendPage;
 import util.DBManager;
 import util.ImageUtil;
 
-
-
 public class LoginPage extends PopupPage {
 
 
@@ -38,7 +36,7 @@ public class LoginPage extends PopupPage {
 	Member member;
 
 	JLabel la_icon;
-
+	
 	
 	public LoginPage(PopWin popWin,ChatMain chatMain) {
 		super(popWin);
@@ -132,8 +130,5 @@ public class LoginPage extends PopupPage {
 			this.setVisible(false);// 나는 안 보이게..
 			
 		}
-	
 	}
-	
-	
 }

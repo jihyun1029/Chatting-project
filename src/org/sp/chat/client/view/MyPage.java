@@ -29,8 +29,6 @@ import org.sp.chat.client.view.popup.PopWin;
 
 import util.DBManager;
 
-
-
 public class MyPage extends Page{
 	JLabel la_title;
 	JLabel la_logout;

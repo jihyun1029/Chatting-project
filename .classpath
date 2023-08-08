@@ -6,6 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Chatting lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Chatting-project lib"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
